@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Eat
+- Sleep
+- Fun
+
+1. erster
+2. zweiter
+3. Dritter
